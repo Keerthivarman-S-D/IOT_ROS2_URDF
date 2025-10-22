@@ -3,7 +3,7 @@
 .. _ros2_control_demos_example_8_userdoc:
 
 ********************************************************************************
-Example 8: Industrial Robots with an exposed transmission interface
+Industrial Robots with an exposed transmission interface
 ********************************************************************************
 
 *RRBot*, or ''Revolute-Revolute Manipulator Robot'', is a simple 3-linkage, 2-joint arm that we will use to demonstrate various features.
